@@ -24,6 +24,6 @@ else
 	exit 0
 fi
 
-echo "Error: could not create file"
-exit 1 
+#echo "Error: could not create file"
+#exit 1 
 

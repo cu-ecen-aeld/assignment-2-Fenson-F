@@ -24,5 +24,5 @@ else
 	exit 0
 fi
 
-echo "Error: could complete search"
-exit 1 
+#echo "Error: could complete search"
+#exit 1 
