@@ -1,5 +1,5 @@
 #!/bin/sh
-#By FFenlon Last Updated Oct 24
+#By F Fenlon Last Updated Oct 24
 
 filesdir=$1
 searchstr=$2

@@ -1,5 +1,5 @@
 #!/bin/sh
-#By FFenlon Last Updated Oct 24
+#By F Fenlon Last Updated Oct 24
 
 if [ $# -eq 0 ]
 then
