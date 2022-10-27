@@ -1,5 +1,5 @@
 #!/bin/sh
-#By F Fenlon Last Updated Oct 24
+#By F Fenlon Last Updated Oct 27
 
 if [ $# -eq 0 ]
 then
@@ -24,6 +24,6 @@ else
 	exit 0
 fi
 
-#echo "Error: could not create file"
-#exit 1 
+echo "Error: could not create file"
+exit 1 
 

@@ -1,12 +1,12 @@
 #!/bin/sh
-#By F Fenlon Last Updated Oct 24
+#By F Fenlon Last Updated Oct 27
 
 filesdir=$1
 searchstr=$2
 
 if [ $# -ne 2 ]
 then
-	echo "Error: No path directory or search string given"
+	echo "Error: No path directory and/or search string given"
 	exit 1
 elif [ ! -d "$filesdir" ] 
 then
@@ -24,5 +24,5 @@ else
 	exit 0
 fi
 
-#echo "Error: could complete search"
-#exit 1 
+echo "Error: could complete search"
+exit 1 
