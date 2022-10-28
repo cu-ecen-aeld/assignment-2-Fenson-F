@@ -1,5 +1,5 @@
 #!/bin/sh
-#By F Fenlon Last Updated Oct 27
+#By F Fenlon Last Updated Oct 27 - Now on new comp
 
 if [ $# -eq 0 ]
 then
