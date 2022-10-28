@@ -1,5 +1,5 @@
 #!/bin/sh
-#By F Fenlon Last Updated Oct 27 - Now on New computer
+#By F Fenlon Last Updated Oct 27 - NPC w/ Docker Fixes 1
 
 filesdir=$1
 searchstr=$2

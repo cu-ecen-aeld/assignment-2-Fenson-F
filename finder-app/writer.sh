@@ -1,5 +1,5 @@
 #!/bin/sh
-#By F Fenlon Last Updated Oct 27 - Now on new comp
+#By F Fenlon Last Updated Oct 27 - NPC w/ Docker Fixes 1
 
 if [ $# -eq 0 ]
 then
